@@ -1,0 +1,36 @@
+
+.together{
+    display: flex;
+    border: solid;
+    background-color: magenta;
+}
+.picture1{
+    display: flex;
+    border: solid;
+    background-color: aqua; 
+}
+.picture2{
+    display: flex;
+    border: solid;
+background-color: hotpink;
+}
+.picture3{
+    display: flex;
+    border: solid;
+    background-color: mediumorchid;
+}
+.picture4{
+    display: flex;
+    border: solid;
+    background-color: orange;
+}
+.picture5{
+    display: flex;
+    border: solid;
+    background-color: cornflowerblue; 
+}
+.picture6{
+    display: flex;
+    border: solid;
+    background-color: darkviolet;
+}
